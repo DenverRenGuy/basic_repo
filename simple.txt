@@ -1,0 +1,14 @@
+Basic Repo Workflow:
+
+Created the basic_repo repository under DenverRenGuy
+
+Created a local version
+
+touch:
+    index.html
+    secondpage.html
+    site.css
+
+added github repo to the local git repo using:
+    git remote add origin https://github.com/DenverRenGuy/basic_repo.git
+    git push -u origin master
